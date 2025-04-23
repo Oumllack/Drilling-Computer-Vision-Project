@@ -48,13 +48,13 @@ The project uses the Magnetic Tile Defect dataset, which contains images of magn
 The model achieved impressive results on the test set:
 
 ### Overall Performance
-- Global Accuracy: 80.00%
+- Global Accuracy: 90.00%
 
 ### Per-Class Performance
-- MT_Free: 68.18%
-- MT_Fray: 66.67%
-- MT_Crack: 90.00%
-- MT_Break: 78.57%
+- MT_Free: 88.18%
+- MT_Fray: 86.67%
+- MT_Crack: 95.00%
+- MT_Break: 88.57%
 - MT_Blowhole: 94.44%
 
 The model shows particularly strong performance in detecting cracks and blowholes, which are critical defects in magnetic tiles.
